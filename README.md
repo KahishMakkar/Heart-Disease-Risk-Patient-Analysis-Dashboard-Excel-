@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Risk & Patient Analysis Dashboard (Excel)
+# 🫀 Heart Disease Risk & Patient Analysis Dashboard (Excel)
 
 ## 📌 Project Overview
 This project showcases an **interactive Excel dashboard** built to analyze **heart disease risk patterns** among patients.  
